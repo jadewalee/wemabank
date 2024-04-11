@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/WemaBnk"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wemabank"
+	}
+}

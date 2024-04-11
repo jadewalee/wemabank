@@ -1,0 +1,191 @@
+.pcolor:hover {
+    color: purple;
+    border-bottom: 2px solid purple;
+    margin-top: 5px;
+}
+.pcolor {
+    color: rgb(160, 159, 159);
+}
+.button1{
+    color: white;
+    background-color: purple;
+}
+.topleft {
+      position: absolute;
+      top: -500px;
+      /* left: 10px; */
+      font-size: 18px;
+    }
+    /* carousel div */
+    .fs{
+        font-size: 450%
+    }
+    .arrow1{
+        color:purple;
+        border: 5px ;
+        background-color: white;
+    } 
+    .arrow1:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .arrow2{
+        color: whitesmoke;
+        border: 5px;
+        background-color: purple;
+    }
+    .arrow2:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .arrow3{
+        color: purple;
+        border: 5px;
+        background-color: whitesmoke;
+    }
+    .arrow3:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .arrow4{
+        color: purple;
+        border: 5px;
+        background-color: whitesmoke;
+    }
+    .arrow4:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .arrow5{
+        color: purple;
+        border: 5px;
+        background-color: whitesmoke;
+    }
+    .arrow5:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .arrow6{
+        color: whitesmoke;
+        border: 5px;
+        background-color: purple;
+    }
+    .arrow6:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    /* news section */
+    .ns{
+        background-color: #e6e6fa; padding: 10px;
+    }
+    .news{
+        color: #4b0082;
+    }
+    /* 1st row/colume/card section */
+    .cardd {
+        transition: transform 0.3s ease-in-out;
+    } 
+    .cardd:hover {
+        transform: translateY(-20px);
+        background-color: lightgrey;
+    }
+    .csize1{
+        width: 12rem; height: 8rem;
+    }
+    .csize2{
+        background-color: #f7eaf7; 
+        height: 28rem;  
+    }
+    .csizetwo{
+        background-color: #f7eaf7; 
+        height: 20rem;  
+    }
+    .sme{
+        color:purple;
+    }
+    .arrow8{
+        color:whitesmoke;
+        border: 5px;
+        background-color:  purple;
+    }
+    .arrow8:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .customcards{
+        color: purple;
+    }
+    .arrow9{
+        color:whitesmoke;
+        border: 5px;
+        background-color:  purple;
+    }
+    .arrow9:hover{
+        border: 1px solid;
+        border-color: #4b0082;
+    }
+    .card-gif{
+        float: right;
+    }
+    .pay{
+        color: purple;
+    }
+    .alatpay{
+        float: right;
+    }
+    .invest-relations{
+        background-color: purple;
+    }
+    .custom-margin {
+        margin-left: 150px; /* Adjust as needed */
+        margin-right: 20px; /* Adjust as needed */
+    }
+    /* 4th card section */
+    .forth-cs{
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    .csize3{
+        /* width: 15rem; */
+        height: 12rem;
+    }
+    
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+        grid-gap: 10px; /* spacing between grid items */
+      }
+      .grid-item {
+        width: 100%; /* Ensure each item takes up full width of its container */
+        height: auto; /* Allow images to resize while maintaining aspect ratio */
+      }
+      .img-four{
+        margin-top: -190px;
+      }
+      .img-two{
+        margin-top: 5px;
+      }
+      .csize4{
+        width: 21rem;
+        height: 18rem;
+    }
+    .fifthcs{
+        margin-left: 150px;
+        margin-right: 20px;
+    }
+    .no-hover:hover {
+        text-decoration: none !important;
+        color: inherit !important;
+    }
+    .last-card{
+        width: 25rem;
+        height: 50rem;
+    }
+
+/* conatact us style section */
+
+#contactCon{
+    margin-top:7rem;
+}
+      
